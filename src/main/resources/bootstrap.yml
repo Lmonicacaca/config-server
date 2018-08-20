@@ -19,7 +19,7 @@ spring:
           uri: https://gitlab.3bcqmbr.com/mbr/pay-config-repo.git #配置文件的地址
           username: lilin
           password: 121520520
-          default-label: master
+          label: master
   application:
     name: config-server
 
